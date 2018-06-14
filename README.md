@@ -1,5 +1,5 @@
 # Flask Bug Tracker App
-
+# New line here
 ## Use
 
 * Flask
